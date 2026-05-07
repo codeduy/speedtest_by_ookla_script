@@ -81,7 +81,7 @@ run_manual_id_speedtest() {
     fi
 
     echo -e "${YELLOW}--- Manual Speedtest (Using server ID) ---${NC}"
-    echo "You can get server ID at: https://c.speedtest.net/speedtest-servers-static.php"
+    echo "You can get server ID at: https://speedsearch.1234000.xyz"
     echo "Or using Google search."
     echo ""
     read -p "Input server ID that you want to test: " server_id
